@@ -5,7 +5,3 @@
 >The Pacific Crest Trail is 2,659 mi (4,279 km) long[1] and ranges in elevation from just above sea level at the Oregon–Washington border to 13,153 feet (4,009 m)[3] at Forester Pass in the Sierra Nevada. The route passes through 25 national forests and 7 national parks.[7] Its midpoint is near Chester, California (near Mt. Lassen), where the Sierra and Cascade mountain ranges meet.
 
 [Wikipedia](https://en.wikipedia.org/wiki/Pacific_Crest_Trail)
-
-![](https://upload.wikimedia.org/wikipedia/commons/0/02/Pacific_crest_trail_route_overview.png)
-
-Surveys from past classes: http://www.halfwayanywhere.com/tag/pct-planning/
