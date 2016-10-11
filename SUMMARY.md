@@ -8,6 +8,7 @@
 * [Navigating the PCT](navigating_the_pct.md)
 * [Gear](gear.md)
     * [Saving Money](saving-money.md)
+    * [Gear Lists](gear-lists.md)
 * [Resupplying](resupplying.md)
 * [Town Guide](town_guide.md)
     * [\(1.4\) Campo \(Southern Terminus\)](14-campo-southern-terminus.md)
