@@ -4,7 +4,7 @@
    * Contributors
 * What is the PCT?
 * Planning
-* Permits
+* [Permits](permits.md)
 * Navigating the PCT
 * [Gear](gear.md)
    * Saving Money
