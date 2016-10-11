@@ -8,7 +8,7 @@
 * [Navigating the PCT](navigating_the_pct.md)
 * [Gear](gear.md)
    * Saving Money
-* Resupplying
+* [Resupplying](resupplying.md)
 * [Town Guide](town_guide.md)
    * (0) Campo (Southern Terminus)
    * (20.6) Lake Morena Campground
