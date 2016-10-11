@@ -5,7 +5,7 @@
 * [What is the PCT?](what_is_the_pct.md)
 * [Planning](planning.md)
 * [Permits](permits.md)
-* Navigating the PCT
+* [Navigating the PCT](navigating_the_pct.md)
 * [Gear](gear.md)
    * Saving Money
 * Resupplying
