@@ -1,6 +1,6 @@
 # Permits
 ##PCT Thru-hiker Permit
-[Link](https://www.pcta.org/discover-the-trail/permits/long-distance-permit-request/)
+For the most up to date information about permits useful for the PCT, visit the [PCTA.org](https://www.pcta.org/discover-the-trail/permits/long-distance-permit-request/)
 
 There are some arguments about whether the PCT permit is required or not. 
 
