@@ -6,7 +6,7 @@
 * Planning
 * Permits
 * Navigating the PCT
-* Gear
+* [Gear](gear.md)
 * Resupplying
 * [Town Guide](town_guide.md)
    * (0) Campo (Southern Terminus)
