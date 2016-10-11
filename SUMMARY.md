@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-    * Contributors
+    * [Contributors](contributors.md)
 * [What is the PCT?](what_is_the_pct.md)
 * [Planning](planning.md)
 * [Permits](permits.md)
