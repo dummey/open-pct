@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * Contributors
-* What is the PCT?
+* [What is the PCT?](what_is_the_pct.md)
 * Planning
 * [Permits](permits.md)
 * Navigating the PCT
