@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * Contributors
 * [What is the PCT?](what_is_the_pct.md)
-* Planning
+* [Planning](planning.md)
 * [Permits](permits.md)
 * Navigating the PCT
 * [Gear](gear.md)
