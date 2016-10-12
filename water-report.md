@@ -5,7 +5,7 @@
   
 ### Sections Covered
 ####Campo, CA to Cottenwood Pass
-  This 
+  This section is mostly desert and thus dry. The largest water carry is in this section. 
 
 
 ### Using on the Trail
