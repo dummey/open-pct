@@ -9,7 +9,7 @@ Generally speaking, there are 3 permits that a hiker would care about:
 
 The **time critical** one is the PCT Long-distance Permit as there is a quota system (50 permits per day in 2016) in place. It fills up fast, so check to see when the permits open up and set a reminder! 
 
-### Permit Check Areas
+### Known Permit Check Areas
 - South Kennedy Meadows -> Tuolumne Meadows
 
 ### Controversy
