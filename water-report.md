@@ -13,7 +13,3 @@
 #### Google Docs
 
 ### Contributing
-  
-The [water report](https://pctwater.com/) and availability of water in general needs to be mentioned early because it is a limiting factor.
-
-
