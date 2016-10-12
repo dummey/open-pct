@@ -10,6 +10,8 @@
 
 ### Using on the Trail
 #### PDF
+
 #### Google Docs
 
 ### Contributing
+> Send updates to water@pctwater.com or phone/text (619) 734-7289 or (619) 734-PCTW [voice mail/text only, no one will answer]. These water reports are compiled from hiker updates, posts to the PCT-L, on-line trail journals, and other on-the-ground reports.
