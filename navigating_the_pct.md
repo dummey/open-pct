@@ -11,6 +11,4 @@ Halfmile
 Guthook
 Hikerbot
 
-
-## Water Report
 ## Dead Reckoning
